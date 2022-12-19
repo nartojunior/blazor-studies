@@ -1,2 +1,2 @@
 # blazor-studies
-Repositório para Estudos em Blazor
+Repositório para Estudos em Blazor.
