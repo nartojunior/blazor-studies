@@ -14,8 +14,10 @@ Para verificar a lista de runtimes:
   ``` dotnet --list-sdks ```
   
 ## # Executando o projeto / Run the project
-Via terminal, acesse o diretório: ``` cd /BlazorApp/Server/ ```
+Via terminal, acesse o diretório: 
 
-Executar o seguint comand:
+``` cd /BlazorApp/Server/ ```
+
+Para executar o projeto utilize o comando seguinte:
 
 ``` dotnet watch ```
