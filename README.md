@@ -7,15 +7,15 @@ Repositório para Estudos em Blazor
 
 Para verificar a lista de runtimes:
 
-  ```dotnet --list-runtimes```
+  ``` dotnet --list-runtimes ```
 
   Para verificar os sdks:
 
-  ```dotnet --list-sdks```
+  ``` dotnet --list-sdks ```
   
 ## # Executando o projeto / Run the project
-Via terminal, acesse o diretório: ``/BlazorApp/Server/``
+Via terminal, acesse o diretório: ``` cd /BlazorApp/Server/ ```
 
 Executar o seguint comand:
 
-```dotnet watch```
+``` dotnet watch ```
