@@ -3,7 +3,7 @@ Repositório para Estudos em Blazor
 
 ## # Requerimentos / Requirements
 
-* Instale dotnet Core 7+.
+* Instale dotnet Core 7+ [Baixe aqui](https://dotnet.microsoft.com/en-us/download/dotnet/7.0).
 
 Para verificar a lista de runtimes:
 
