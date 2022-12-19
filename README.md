@@ -13,7 +13,7 @@ Para verificar a lista de runtimes:
 
   ``` dotnet --list-sdks ```
   
-## # Executando o projeto / Run the project
+## # Executando o projeto / Running the project
 
 1. Via terminal, acesse o diretório raiz da repositório: 
 2. No diretório raiz, acesse o projeto Server.
