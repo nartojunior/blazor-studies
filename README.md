@@ -20,6 +20,14 @@ Para verificar a lista de runtimes:
      
     ``` cd ./BlazorApp/Server/ ```
 
-2. Para executar o projeto utilize o comando seguinte:
+3. Para executar o projeto utilize o comando seguinte:
 
    ``` dotnet watch ```
+
+## # Construindo o projeto / Building the project
+
+1. Para contruuir o projeto utilize o comando seguinte:
+
+   ``` dotnet publish ```
+
+O diretório terá os arquivos necessários para serem usados em um servidor web.
