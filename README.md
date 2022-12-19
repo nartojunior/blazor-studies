@@ -1,2 +1,21 @@
-# blazor-studies
+# Blazor Studies
 Repositório para Estudos em Blazor
+
+## # Requerimentos / Requirements
+
+* Instale dotnet Core 7+.
+
+Para verificar a lista de runtimes:
+
+  ```dotnet --list-runtimes```
+
+  Para verificar os sdks:
+
+  ```dotnet --list-sdks```
+  
+## # Executando o projeto / Run the project
+Via terminal, acesse o diretório: ``/BlazorApp/Server/``
+
+Executar o seguint comand:
+
+```dotnet watch```
