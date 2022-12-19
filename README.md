@@ -16,7 +16,7 @@ Para verificar a lista de runtimes:
 ## # Executando o projeto / Run the project
 Via terminal, acesse o diretório: 
 
-``` cd /BlazorApp/Server/ ```
+``` cd ./BlazorApp/Server/ ```
 
 Para executar o projeto utilize o comando seguinte:
 
